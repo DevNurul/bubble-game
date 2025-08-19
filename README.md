@@ -35,7 +35,5 @@ The objective is simple: Pop the correct bubble before the timer runs out!
 5. ❌ Wrong click → No points.  
 6. The game continues until the timer ends.  
 
----
 
-## 📂 Project Structure
 
